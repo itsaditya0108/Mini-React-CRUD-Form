@@ -20,7 +20,8 @@ This project is great for learning how to manage form inputs, handle state updat
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Mini+React+CRUD+Form) <!-- Replace with actual screenshot if desired -->
+[<img width="1909" height="439" alt="image" src="https://github.com/user-attachments/assets/5e209202-29cc-4914-b08f-7638329cb319" />
+](https://via.placeholder.com/800x400?text=Mini+React+CRUD+Form) <!-- Replace with actual screenshot if desired -->
 
 ---
 
