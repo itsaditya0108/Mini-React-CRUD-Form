@@ -1,16 +1,87 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Mini React CRUD Form
 
-Currently, two official plugins are available:
+A simple and minimal React application demonstrating basic **CRUD operations** — Create, Read, Update, and Delete — using local state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is great for learning how to manage form inputs, handle state updates, and render dynamic lists in React.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Mini-React-CRUD-Form
->>>>>>> 6b8fb372b802641fb66ab5d667cb04b5572615ae
+## 🚀 Features
+
+- Add new user details (First Name, Last Name, Age)
+- Edit existing records inline
+- Delete entries with confirmation
+- Simple input validation
+- Clean and centered layout using basic CSS/Flexbox or Tailwind
+- Built using **React + Vite**
+
+---
+
+## 📸 Preview
+
+![App Screenshot](https://via.placeholder.com/800x400?text=Mini+React+CRUD+Form) <!-- Replace with actual screenshot if desired -->
+
+---
+
+## 📦 Tech Stack
+
+- **React** (with Hooks)
+- **Vite** (for fast dev server and bundling)
+- Optional: Tailwind CSS / Bootstrap for layout
+
+---
+
+## 🛠️ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/itsaditya0108/Mini-React-CRUD-Form.git
+cd Mini-React-CRUD-Form
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🧩 Folder Structure
+
+```
+src/
+├── App.jsx         # Main App component
+├── userDetail.js   # Initial dummy user data
+├── index.css       # Basic styles
+└── main.jsx        # React entry point
+```
+
+---
+
+## 📝 Future Improvements (optional ideas)
+
+* Add persistent storage using LocalStorage or Firebase
+* Add form validation with libraries like Yup/Formik
+* Add pagination or filtering
+* Connect to a backend API
+
+---
+
+## 🙌 Author
+
+Made with ❤️ by [Aditya Verma](https://github.com/itsaditya0108)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
